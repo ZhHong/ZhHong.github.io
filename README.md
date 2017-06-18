@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ZhHong/ZhHong.github.io/assets/img/gitopuss_open_box.jpg"><br><br>
+  <img src="https://github.com/ZhHong/ZhHong.github.io/blob/master/assets/img/gitopuss_open_box.jpg"><br><br>
 </div>
 -----------------------
 ## Welcome to GitHub Pages
