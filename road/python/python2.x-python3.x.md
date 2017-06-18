@@ -11,5 +11,11 @@
 * 选择python 3.x 的原因：
     * 虽然想接触了python 2.x，而且也用了大概两年时间，但是即将学习的内容需要一个稳定的版本，而不需要时不时的切换，所以选择了python 3.5.3这个版本(TensorFlow windows版本决定了只支持3.x)
 
+* pip 使用
+```python
+>>> pip install `WHAT`      #安装
+>>> pip uninstall `WHAT`    #删除
+>>> pip list                #显示安装的pip包
+```
 * TODO
     * python 与 c/c++ 交互
