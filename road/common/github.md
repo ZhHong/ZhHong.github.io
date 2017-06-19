@@ -20,3 +20,8 @@
 * *这个我还闹了个笑话，在准备拉去TensorFlow更新的时候，没注意选择 **base fork**和**head fork**提交一个pull request到TensorFlow的仓库上去了*
 
 *如果我遇到新的东西，我会尝试更新这个文件。*
+* git 放弃所有修改，强制更新(注意这样会丢失掉所有本地的修改)
+```shell
+>>> git fetch --all
+>>> git reset --hard origin/master
+```

@@ -2,7 +2,7 @@
 
 ### 安装
 * 目前我选择最简单粗暴的安装方式，虽然不太如人意，待我了解更深入了再来自己编译。
-* 平台选择Windows是因为，熟悉Windows，而且现在Windows带有Ubuntu子系统，日常应用是完全足够的。其它2个系统，肯定有不是花我的地方。
+* 平台选择Windows是因为，熟悉Windows，而且现在Windows带有Ubuntu子系统，日常应用是完全足够的。
 *  Windows CPU-only: [Python 3.5 64-bit](https://ci.tensorflow.org/view/Nightly/job/nightly-win/DEVICE=cpu,OS=windows/lastSuccessfulBuild/artifact/cmake_build/tf_python/dist/tensorflow-1.0.1-cp35-cp35m-win_amd64.whl)，其它版本[TensorFlow](https://github.com/tensorflow/tensorflow)
 ### 测试
 * 先来个TensorFlow的hello world
