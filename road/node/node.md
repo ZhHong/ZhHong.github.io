@@ -9,7 +9,7 @@ te.pem -out ./file.crt                              #通过私钥文件和CSR证
 ```
 * app.js
 ```javascript
-var https_service = require('./https_service)
+var https_service = require('./https_service')
 https_service.start()
 ```
 * https_service.js
