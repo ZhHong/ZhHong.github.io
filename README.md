@@ -23,8 +23,8 @@
     * [PIL(Pillow)](https://github.com/ZhHong/ZhHong.github.io/blob/master/road/python/PIL(Pillow).md)
     * [scipy]()
 
-### 其它
-[起点](https://github.com/ZhHong/ZhHong.github.io/blob/master/other/why.md) *20170618*
+<!-- ### 其它
+[起点](https://github.com/ZhHong/ZhHong.github.io/blob/master/other/why.md) *20170618* -->
 
 <!-- You can use the [editor on GitHub](https://github.com/ZhHong/ZhHong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
