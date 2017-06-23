@@ -195,3 +195,14 @@ The TensorFlow library wasn't compiled to use FMA instructions, but these are av
     >>>g2 : [ 1.]
     ```
 * 2017/06/18
+* 最近工作比较忙都是看，没时间去写，今天准备去TensorFlow游乐场玩玩。
+* tensorflow 游乐场 ==>[跳板](http://playground.tensorflow.org)
+* 2017/06/22
+* 然后这个项目也是开源的 ==>[跳板](https://github.com/tensorflow/playground.git)
+* 安装依赖，粗略的看了下代码，应该是实现了几个比较常见的深度学习算法，让人有比较直观的感觉，先看再说。
+```shell
+npm install  #等待安装完成 material-design-lite 比较慢....
+npm run build
+npm run serve
+```
+<!-- 设置临时的CMD代理 set http_proxy=http://127.0.0.1:PORT -->
