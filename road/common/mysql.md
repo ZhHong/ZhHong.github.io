@@ -8,3 +8,10 @@
     GRANT ALL PRIVILEGES ON *.* TO 'myuser'@'HOST' IDENTIFIED BY 'mypassword' WITH GRANT OPTION;
     flush privileges;
 ```
+* mysql字符集指定
+```
+    [client]
+    default-character-set = utf8
+    [mysqld]
+    character-set-server = utf8
+```
